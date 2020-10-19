@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">PorDoSol</string>
+    <string name="app_name">Nascer e pôr do sol</string>
+    <string name="slogan">Horários do pôr do sol e do nascer do sol para uma determinada latitude e longitude</string>
+    <string name="text_lat">Latitude:</string>
+    <string name="text_long">Longitude:</string>
+    <string name="sunrise">Nascer do sol:</string>
+    <string name="sunset">Pôr do sol:</string>
+    <string name="hint_lat">Insira uma latitude</string>
+    <string name="hint_long">Insira uma latitude</string>
+    <string name="text_buscar">Buscar</string>
+    <string name="valores_invalidos">Preencha a latitude e longitude.</string>
+    <string name="erro_api">Erro ao buscar dados.</string>
+    <string name="explicacao_permissao">A busca das receitas depende do acesso a internet, sem essa permissão o aplicativo não consegue recuperar a informação desejada.</string>
+    <string name="botao_permitir">Permitir</string>
+    <string name="botao_nao_permitir">Agora não</string>
+    <string name="posicao_nao_encontrado">Não foi encontrada nenhum dado com esse latitude e longitude</string>
 </resources>
